@@ -55,10 +55,7 @@ We computed chamfer distance after applying above edge recognition on the datase
 - ``main.ipynb``: is the main working area, containing all the
 - ``utils.py``: module containing data loading and preprocessing functions
 
-- ``naive_bayes_custom.py``: module containg a custom implementation of the Naive Bayes Classifier used for error understanding
 
-- ``X.npy``: dataset images in the form of a numpy matrix
-- ``Y.npy``: numpy vector containing true labels of the images
 
 <br />
 <br />
